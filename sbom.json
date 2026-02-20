@@ -1,0 +1,15 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "serialNumber": "urn:uuid:4978a57ec84a2f3b6dc19607841b018e",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-02-20T19:16:46.299236",
+    "component": {
+      "type": "application",
+      "name": "ai-codemap"
+    }
+  },
+  "components": [],
+  "note": "Run 'pip-audit' and 'pip-licenses' for full CVE and license data"
+}
